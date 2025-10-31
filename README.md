@@ -21,7 +21,7 @@ Aquí muestro mis proyectos, habilidades y la experiencia que tengo como desarro
 - **Inicio:** presentación breve y llamada a acción.  
 - **Sobre mí:** experiencia, educación y habilidades.  
 - **Proyectos:** listado de mis trabajos más destacados.  
-- **Contacto:** formulario y enlaces a redes sociales.  
+- **Contacto:** formulario y enlaces a mis redes sociales.  
 
 ---
 
@@ -29,10 +29,10 @@ Aquí muestro mis proyectos, habilidades y la experiencia que tengo como desarro
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/portafolio-jc.git
+git clone https://github.com/juancitopacheco/mi-portafolio.git
 
 # Entrar a la carpeta
-cd portafolio-jc
+cd mi-portafolio
 
 # Instalar dependencias
 npm install
